@@ -13,9 +13,10 @@ Chaîne YouTube/TikTok faceless de récits courts.
 | Fichier | Rôle |
 |---|---|
 | `production/tto-charte-hook.md` | **Charte du hook** — gabarit d'ouverture fixe, identique à chaque épisode. Inclut le brief du logo. À lire en premier. |
-| `production/cirque-90s.md` | **Épisode 1 — « 13 mètres »**, version 1:30. Script, shot list, 12 prompts prêts à coller. C'est la version de référence. |
-| `production/cirque-production.md` | Version 3:05 du même épisode. Conservée pour référence, remplacée par la version 1:30. |
-| `production/prompts-24-pret-a-coller.md` | Les 24 prompts de la version longue. |
+| `production/cirque-90s.md` | **Épisode 1 — « 13 mètres »**, 1:44 en **9:16 vertical**. Script, shot list, 13 prompts recomposés pour le vertical. C'est la version de référence. |
+| `production/13-metres.srt` | Sous-titres de l'épisode 1, 49 segments calés sur le minutage. |
+| `production/cirque-production.md` | Version 3:05 en 16:9. Archive, remplacée. |
+| `production/prompts-24-pret-a-coller.md` | Les 24 prompts de la version longue, en 16:9. Archive. |
 | `production/lustig-production.md` | Sujet alternatif (Victor Lustig / Tour Eiffel), non produit. |
 
 ---
@@ -39,7 +40,7 @@ Les règles éditoriales et de production sont détaillées dans les dossiers. E
 
 ## Pile technique
 
-- **Images :** Higgsfield, `nano_banana_pro` (résout vers `nano_banana_2`), 16:9, 2k — 2 crédits/image.
+- **Images :** Higgsfield, `nano_banana_pro`, **9:16 vertical**, 2k — 2 crédits/image.
 - **Voix off :** Higgsfield, `seed_audio`.
 - **Vidéo générée :** écartée. `seedance_2_0` coûte 22,5 crédits/plan contre 2 pour une image, et la gravure au trait se dégrade en vidéo générée. Le mouvement se fait au montage.
 
@@ -49,6 +50,6 @@ Les règles éditoriales et de production sont détaillées dans les dossiers. E
 
 ## État
 
-- Épisode 1 : script, hook et prompts finalisés.
-- Plan 1 généré. **Direction artistique non validée visuellement.**
-- Reste à produire : 11 plans, le logo, la voix off, les 3 effets sonores.
+- Épisode 1 : script, hook, prompts 9:16 et sous-titres finalisés.
+- Plan 1 généré en 16:9 — **à refaire en 9:16**. Direction artistique non validée visuellement.
+- Reste à produire : 13 images (26 crédits), le logo, la voix off, les 3 effets sonores.
