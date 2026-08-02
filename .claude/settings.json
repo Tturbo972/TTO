@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Magic__balance",
+      "mcp__Magic__models_explore",
+      "mcp__Magic__job_display",
+      "mcp__Magic__show_generations",
+      "mcp__Magic__show_medias",
+      "mcp__Magic__generate_image",
+      "mcp__Magic__generate_audio",
+      "mcp__Magic__list_voices",
+      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__balance",
+      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__models_explore",
+      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__job_display",
+      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__show_generations",
+      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__show_medias",
+      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__generate_image",
+      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__generate_audio",
+      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__list_voices"
+    ]
+  }
+}

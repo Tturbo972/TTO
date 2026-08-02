@@ -1,0 +1,7 @@
+# Skills installées via `npx skills add` — réinstallables depuis skills-lock.json
+.agents/
+.claude/skills/
+
+# Divers
+node_modules/
+.DS_Store
