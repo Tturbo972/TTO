@@ -14,6 +14,7 @@ Chaîne YouTube/TikTok faceless de récits courts.
 |---|---|
 | `production/tto-charte-hook.md` | **Charte du hook** — gabarit d'ouverture fixe, identique à chaque épisode. Inclut le brief du logo. À lire en premier. |
 | `production/cirque-90s.md` | **Épisode 1 — « 13 mètres »**, 1:44 en **9:16 vertical**. Script, shot list, 13 prompts recomposés pour le vertical. C'est la version de référence. |
+| `production/seedance-animation.md` | **Dossier d'animation Seedance** — 14 prompts de mouvement, budget, gestion des durées, stratégie 4K. |
 | `production/13-metres.srt` | Sous-titres de l'épisode 1, 49 segments calés sur le minutage. |
 | `production/cirque-production.md` | Version 3:05 en 16:9. Archive, remplacée. |
 | `production/prompts-24-pret-a-coller.md` | Les 24 prompts de la version longue, en 16:9. Archive. |
@@ -42,9 +43,9 @@ Les règles éditoriales et de production sont détaillées dans les dossiers. E
 
 - **Images :** Higgsfield, `nano_banana_pro`, **9:16 vertical**, 2k — 2 crédits/image.
 - **Voix off :** Higgsfield, `seed_audio`.
-- **Vidéo générée :** écartée. `seedance_2_0` coûte 22,5 crédits/plan contre 2 pour une image, et la gravure au trait se dégrade en vidéo générée. Le mouvement se fait au montage.
+- **Animation :** `seedance_2_0` en image-to-video, 9:16, ~22,5 crédits/plan. Chaque image fixe validée sert de première frame. Voir `production/seedance-animation.md` — le mouvement vient de la caméra, jamais du sujet, pour protéger la gravure.
 
-`.claude/settings.json` autorise les outils Higgsfield nécessaires. `generate_video` en est **volontairement exclu** — c'est le poste coûteux, il doit rester un geste délibéré.
+`.claude/settings.json` autorise les outils Higgsfield, `generate_video` compris depuis le passage à l'animation. C'est le poste coûteux — voir le budget par paliers dans le dossier Seedance avant de lancer une série.
 
 ---
 
@@ -52,4 +53,5 @@ Les règles éditoriales et de production sont détaillées dans les dossiers. E
 
 - Épisode 1 : script, hook, prompts 9:16 et sous-titres finalisés.
 - Plan 1 généré en 16:9 — **à refaire en 9:16**. Direction artistique non validée visuellement.
-- Reste à produire : 13 images (26 crédits), le logo, la voix off, les 3 effets sonores.
+- Reste à produire : 13 images (26 crédits), 13 animations (~292 crédits), le logo, la voix off, les 3 effets sonores.
+- **Accès Higgsfield fermé depuis cet environnement** : les 5 domaines sont refusés par la politique réseau. La production se fait dans l'application.

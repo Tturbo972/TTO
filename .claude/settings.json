@@ -16,7 +16,17 @@
       "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__show_medias",
       "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__generate_image",
       "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__generate_audio",
-      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__list_voices"
+      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__list_voices",
+      "mcp__Magic__generate_video",
+      "mcp__Magic__upscale_video",
+      "mcp__Magic__generate_video_batch",
+      "mcp__Magic__jobs_wait",
+      "mcp__Magic__show_generation_by_ids",
+      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__generate_video",
+      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__upscale_video",
+      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__generate_video_batch",
+      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__jobs_wait",
+      "mcp__2036652a-2dba-45fe-b61f-db805c2e11e1__show_generation_by_ids"
     ]
   }
 }
