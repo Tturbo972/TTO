@@ -12,6 +12,7 @@ Chaîne YouTube/TikTok faceless de récits courts.
 
 | Fichier | Rôle |
 |---|---|
+| `production/EPISODE-1-feuille-de-prod.md` | **⭐ Feuille de production épisode 1** — tous les prompts dans l'ordre d'exécution, avec cases à cocher et coûts. C'est le document à ouvrir pour produire. |
 | `production/tto-charte-hook.md` | **Charte du hook** — gabarit d'ouverture fixe, identique à chaque épisode. Inclut le brief du logo. À lire en premier. |
 | `production/cirque-90s.md` | **Épisode 1 — « 13 mètres »**, 1:44 en **9:16 vertical**. Script, shot list, 13 prompts recomposés pour le vertical. C'est la version de référence. |
 | `production/tto-mascotte.md` | **La mascotte TTO** — concept, prompt, placement dans le hook. À geler avant publication de l'épisode 1. |
