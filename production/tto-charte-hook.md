@@ -54,10 +54,12 @@ Image : retour au noir, ou au plan fixe d'ouverture.
 
 C'est le contrat : la phrase choc pose une énigme, la phrase réponse dit d'où elle vient, et le spectateur reste pour le comment.
 
-### ⑥ 0:12 → 0:13 · CLOCHE + LOGO TTO
-La **cloche** sonne **exactement** sur l'apparition du logo. Pas avant, pas après — la synchronisation est ce qui rend le rituel satisfaisant.
+### ⑥ 0:12 → 0:13 · CLOCHE + LOCKUP MASCOTTE/LOGO
+La **cloche** sonne **exactement** sur l'apparition du lockup. Pas avant, pas après — la synchronisation est ce qui rend le rituel satisfaisant.
 
-Logo TTO plein écran, ~1 seconde, puis coupe directe sur le premier plan de l'épisode.
+Lockup plein écran, ~1 seconde — la silhouette de la mascotte, le logo TTO dessous — puis coupe directe sur le premier plan de l'épisode.
+
+La mascotte est décrite dans `tto-mascotte.md`. Elle s'ajoute ici **sans allonger le hook** : elle occupe le temps qui existait déjà pour le logo. Mascotte et logo sont générés séparément et assemblés au montage — jamais dans une même génération, sinon un raté sur les lettres « TTO » obligerait à refaire la mascotte aussi.
 
 ---
 

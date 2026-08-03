@@ -14,6 +14,7 @@ Chaîne YouTube/TikTok faceless de récits courts.
 |---|---|
 | `production/tto-charte-hook.md` | **Charte du hook** — gabarit d'ouverture fixe, identique à chaque épisode. Inclut le brief du logo. À lire en premier. |
 | `production/cirque-90s.md` | **Épisode 1 — « 13 mètres »**, 1:44 en **9:16 vertical**. Script, shot list, 13 prompts recomposés pour le vertical. C'est la version de référence. |
+| `production/tto-mascotte.md` | **La mascotte TTO** — concept, prompt, placement dans le hook. À geler avant publication de l'épisode 1. |
 | `production/seedance-animation.md` | **Dossier d'animation Seedance** — 14 prompts de mouvement, budget, gestion des durées, stratégie 4K. |
 | `production/13-metres.srt` | Sous-titres de l'épisode 1, 49 segments calés sur le minutage. |
 | `production/cirque-production.md` | Version 3:05 en 16:9. Archive, remplacée. |
@@ -34,7 +35,7 @@ Les règles éditoriales et de production sont détaillées dans les dossiers. E
 6. **Sous-titres incrustés** sur 100 % de la durée.
 7. **Le dernier plan rejoue le premier** — c'est le bouclage qui déclenche le replay.
 8. **Direction artistique verrouillée** : gravure lithographique XIXe, bloc de prompt identique sur tous les plans et tous les épisodes.
-9. **Faceless intégral** — silhouettes, mains, contre-jour. Aucun visage identifiable.
+9. **Faceless intégral** — silhouettes, mains, contre-jour. Aucun visage identifiable. La mascotte elle-même est une silhouette en contre-jour : sans visage par construction, pas par retouche.
 10. **Le hook ne change jamais** une fois le premier épisode publié.
 
 ---
