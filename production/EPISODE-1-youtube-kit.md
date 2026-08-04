@@ -178,7 +178,7 @@ Pour un premier épisode, publiez **en semaine, entre 17 h et 19 h heure de Pari
 
 ## CHECKLIST AVANT DE CLIQUER SUR PUBLIER
 
-- [ ] Le fichier est en **1080 × 1920**, 9:16, et non recadré par erreur
+- [ ] Le fichier est en **2160 × 3840** (4K vertical), 9:16, et non recadré par erreur
 - [ ] Les sous-titres incrustés couvrent **100 %** de la durée
 - [ ] Le fichier `13-metres-5min.srt` est importé (142 segments, fin à 5:02)
 - [ ] La vignette est lisible réduite à **120 pixels** de large
