@@ -13,7 +13,12 @@ Chaîne YouTube/TikTok faceless de récits courts.
 | Fichier | Rôle |
 |---|---|
 | `production/EPISODE-1-5MIN.md` | **⭐ Épisode 1, version 5 minutes** — script, 30 plans, prompts, plan d'animation hybride. Version de référence. |
-| `production/EPISODE-1-youtube-kit.md` | **Kit YouTube** — titre, vignettes, description, chapitres, écran de fin, checklist. |
+| `production/EPISODE-1-youtube-kit.md` | **Kit YouTube ép. 1** (long-form 5:12) — titre, vignettes, description, chapitres, checklist. |
+| `production/EPISODE-1-tiktok-kit.md` | **Kit TikTok ép. 1** — couverture, légende, label IA, stratégie 3 parties. |
+| `production/EPISODE-2-25-secondes.md` | **Épisode 2 « 25 secondes »** — analyse maratrium, script 2:18, production exécutée. |
+| `production/EPISODE-2-assets.md` | Les 24 assets générés de l'épisode 2 (12 images + 12 clips). |
+| `production/EPISODE-2-youtube-kit.md` | **Kit YouTube ép. 2** — c'est un **Short** : première frame, titre, description, checklist. |
+| `production/25-secondes.srt` | Sous-titres épisode 2, 63 segments. |
 | `production/prompts-a-coller.txt` | Prompts d'**images** en texte brut, prêts à coller. |
 | `production/prompts-animation-a-coller.txt` | Prompts d'**animation** Seedance en texte brut, 29 clips. |
 | `production/13-metres-5min.srt` | Sous-titres de la version 5 min, 142 segments. |
