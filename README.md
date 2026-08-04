@@ -20,6 +20,8 @@ Chaîne YouTube/TikTok faceless de récits courts.
 | `production/EPISODE-2-youtube-kit.md` | **Kit YouTube ép. 2** — c'est un **Short** : première frame, titre, description, checklist. |
 | `production/25-secondes.srt` | Sous-titres épisode 2, 63 segments. |
 | `production/EPISODE-2-audio.md` | **Piste audio ép. 2** — 120 s, voix Marcus, calée sur les 12 clips. |
+| `production/EPISODE-1-audio.md` | **Bande-son ép. 1** — 5:12, chaque acte calé sur la shot list. |
+| `production/TTO-medias.html` | Page de visionnage de tous les médias + scripts de téléchargement (.bat/.sh). |
 | `production/prompts-a-coller.txt` | Prompts d'**images** en texte brut, prêts à coller. |
 | `production/prompts-animation-a-coller.txt` | Prompts d'**animation** Seedance en texte brut, 29 clips. |
 | `production/13-metres-5min.srt` | Sous-titres de la version 5 min, 142 segments. |

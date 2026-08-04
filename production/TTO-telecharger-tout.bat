@@ -3,7 +3,7 @@ chcp 65001 >nul
 set DEST=%USERPROFILE%\Desktop\TTO-medias
 mkdir "%DEST%" 2>nul
 cd /d "%DEST%"
-echo Telechargement de 26 fichiers vers %DEST% ...
+echo Telechargement vers %DEST% ...
 curl -L -sS -o "ep2-01-lac-aube.mp4" "https://d8j0ntlcm91z4.cloudfront.net/user_3GxPcyALGbnZURj7lluqi6XwHVi/hf_20260804_135646_8d550629-8293-4bbe-a7d4-f64844f785a3.mp4"
 curl -L -sS -o "ep2-01-lac-aube.png" "https://d8j0ntlcm91z4.cloudfront.net/user_3GxPcyALGbnZURj7lluqi6XwHVi/hf_20260804_135347_4d5fea0f-e758-4c66-9517-6d2cbf003075.png"
 echo   ep2-01-lac-aube : ok
@@ -43,6 +43,26 @@ echo   ep2-12-lettres : ok
 curl -L -sS -o "ep1-plan24-corps-en-vol.mp4" "https://d8j0ntlcm91z4.cloudfront.net/user_3GxPcyALGbnZURj7lluqi6XwHVi/hf_20260804_091635_64ad576f-76e3-46c2-bcdc-58dfc72ab663.mp4"
 curl -L -sS -o "ep1-plan24-corps-en-vol.png" "https://d8j0ntlcm91z4.cloudfront.net/user_3GxPcyALGbnZURj7lluqi6XwHVi/hf_20260804_090604_9a570d76-afab-4a0e-83c6-3ae502275a3c.png"
 echo   ep1-plan24-corps-en-vol : ok
+curl -L -sS -o "BANDE-SON-ep1-13-metres-5min12.mp3" "https://d2ol7oe51mr4n9.cloudfront.net/user_3GxPcyALGbnZURj7lluqi6XwHVi/c66d3782-51f6-4e1d-b71c-4d4912791865.mp3"
+echo   BANDE-SON-ep1-13-metres-5min12 : ok
+curl -L -sS -o "BANDE-SON-ep2-25-secondes-2min.mp3" "https://d2ol7oe51mr4n9.cloudfront.net/user_3GxPcyALGbnZURj7lluqi6XwHVi/8d55baa1-74dd-49d2-826d-c4d636cf251e.mp3"
+echo   BANDE-SON-ep2-25-secondes-2min : ok
+curl -L -sS -o "ep1-prise-01-hook-choc.wav" "https://d8j0ntlcm91z4.cloudfront.net/user_3GxPcyALGbnZURj7lluqi6XwHVi/hf_20260804_150133_0be9ca47-5f25-4f68-a961-36e1394b92f2.wav"
+echo   ep1-prise-01-hook-choc : ok
+curl -L -sS -o "ep1-prise-02-hook-reponse.wav" "https://d8j0ntlcm91z4.cloudfront.net/user_3GxPcyALGbnZURj7lluqi6XwHVi/hf_20260804_150133_7b63e368-7bd4-4c61-940a-3e2fe5edc0a1.wav"
+echo   ep1-prise-02-hook-reponse : ok
+curl -L -sS -o "ep1-prise-03-acte1.wav" "https://d8j0ntlcm91z4.cloudfront.net/user_3GxPcyALGbnZURj7lluqi6XwHVi/hf_20260804_150132_2f874271-0f51-4235-aa15-4ae8537b2fc5.wav"
+echo   ep1-prise-03-acte1 : ok
+curl -L -sS -o "ep1-prise-04-acte2.wav" "https://d8j0ntlcm91z4.cloudfront.net/user_3GxPcyALGbnZURj7lluqi6XwHVi/hf_20260804_150133_25f9157d-332e-42b1-95e3-a587f61ad08f.wav"
+echo   ep1-prise-04-acte2 : ok
+curl -L -sS -o "ep1-prise-05-acte3.wav" "https://d8j0ntlcm91z4.cloudfront.net/user_3GxPcyALGbnZURj7lluqi6XwHVi/hf_20260804_150132_f5f23d4c-3d37-4e39-8687-082a9fddfae8.wav"
+echo   ep1-prise-05-acte3 : ok
+curl -L -sS -o "ep1-prise-06-acte4.wav" "https://d8j0ntlcm91z4.cloudfront.net/user_3GxPcyALGbnZURj7lluqi6XwHVi/hf_20260804_150220_117dc88c-a48a-488f-9445-875ed3ceb7d7.wav"
+echo   ep1-prise-06-acte4 : ok
+curl -L -sS -o "ep1-prise-07-acte5.wav" "https://d8j0ntlcm91z4.cloudfront.net/user_3GxPcyALGbnZURj7lluqi6XwHVi/hf_20260804_150133_ba3cd6c0-bfca-4b62-9f88-b2e7207ff05c.wav"
+echo   ep1-prise-07-acte5 : ok
+curl -L -sS -o "ep1-prise-08-chute.wav" "https://d8j0ntlcm91z4.cloudfront.net/user_3GxPcyALGbnZURj7lluqi6XwHVi/hf_20260804_150133_437398d9-36c2-45b3-83e0-76da522fc76e.wav"
+echo   ep1-prise-08-chute : ok
 echo.
-echo Termine ! Les fichiers sont dans %DEST%
+echo Termine ! 13 videos + 13 images + 10 audios dans %DEST%
 pause
