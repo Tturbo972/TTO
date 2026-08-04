@@ -71,7 +71,7 @@ CHAPITRES
 0:00 Le chiffre que personne ne remarque
 0:16 Le sergent de cavalerie
 1:15 Le mot qu'Astley n'a jamais dit
-2:05 Comment la piste a fait le tour du monde
+2:10 Comment la piste a fait le tour du monde
 2:55 Le garçon qui s'entraînait au-dessus d'une piscine
 4:10 Le renversement
 4:50 Et toi, tu l'avais remarqué ?

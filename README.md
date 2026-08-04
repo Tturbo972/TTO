@@ -17,10 +17,10 @@ Chaîne YouTube/TikTok faceless de récits courts.
 | `production/13-metres-5min.srt` | Sous-titres de la version 5 min, 142 segments. |
 | `production/EPISODE-1-feuille-de-prod.md` | **⭐ Feuille de production épisode 1** — tous les prompts dans l'ordre d'exécution, avec cases à cocher et coûts. C'est le document à ouvrir pour produire. |
 | `production/tto-charte-hook.md` | **Charte du hook** — gabarit d'ouverture fixe, identique à chaque épisode. Inclut le brief du logo. À lire en premier. |
-| `production/cirque-90s.md` | **Épisode 1 — « 13 mètres »**, 1:44 en **9:16 vertical**. Script, shot list, 13 prompts recomposés pour le vertical. C'est la version de référence. |
+| `production/cirque-90s.md` | Version 2:00 en 9:16. Archive, remplacée par la version 5 minutes. |
 | `production/tto-mascotte.md` | **La mascotte TTO** — concept, prompt, placement dans le hook. À geler avant publication de l'épisode 1. |
 | `production/seedance-animation.md` | **Dossier d'animation Seedance** — 14 prompts de mouvement, budget, gestion des durées, stratégie 4K. |
-| `production/13-metres.srt` | Sous-titres de l'épisode 1, 49 segments calés sur le minutage. |
+| `production/13-metres.srt` | Sous-titres de la version 2:00. Archive. |
 | `production/cirque-production.md` | Version 3:05 en 16:9. Archive, remplacée. |
 | `production/prompts-24-pret-a-coller.md` | Les 24 prompts de la version longue, en 16:9. Archive. |
 | `production/lustig-production.md` | Sujet alternatif (Victor Lustig / Tour Eiffel), non produit. |
@@ -56,7 +56,7 @@ Les règles éditoriales et de production sont détaillées dans les dossiers. E
 
 ## État
 
-- Épisode 1 : script, hook, prompts 9:16 et sous-titres finalisés.
+- Épisode 1 : version 5:12 finalisée — script vérifié en recherche, 30 plans, prompts, sous-titres, kit YouTube complet.
 - Plan 1 généré en 16:9 — **à refaire en 9:16**. Direction artistique non validée visuellement.
 - Reste à produire : 13 images (26 crédits), 13 animations (~292 crédits), le logo, la voix off, les 3 effets sonores.
 - **Accès Higgsfield fermé depuis cet environnement** : les 5 domaines sont refusés par la politique réseau. La production se fait dans l'application.
