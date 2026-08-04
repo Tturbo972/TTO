@@ -193,6 +193,63 @@ Les 21 autres sont des images fixes : un zoom lent de 3 % sur dix secondes suffi
 
 ---
 
+## OFFRE ILLIMITÉE SEEDANCE — À VÉRIFIER AVANT DE LANCER
+
+Si votre compte dispose de générations illimitées sur Seedance, le budget de ce dossier s'effondre et **les 30 plans peuvent être animés**, pas seulement 9.
+
+Une réserve, et une seule : l'allocation illimitée ne couvre pas le modèle en bloc, elle couvre **une liste de configurations précises**. Résolution, format et durée en font partie. Il est courant qu'une offre d'essai couvre le 1080p et exclue la 4K, ou couvre le 16:9 et pas le vertical.
+
+### La vérification, en une commande
+
+Dans l'application ou via l'API, appelez l'explorateur de modèles avec le filtre illimité :
+
+```
+models_explore(action: "list", type: "video", unlim: true)
+```
+
+Trois choses à lire dans la réponse :
+
+1. **`seedance` figure-t-il dans la liste ?** S'il n'y est pas, l'offre ne le couvre pas.
+2. **Le bloc `unlim` en tête** dit si vous pouvez dépenser ces générations *maintenant* — une allocation peut exister mais être épuisée ou expirée.
+3. **La ligne « Unlim configs » en fin de réponse** énumère les configurations réellement couvertes. C'est la seule qui compte : cherchez-y `9:16` **et** `4k`. Si vous n'y trouvez que `1080p`, l'illimité fonctionne quand même — voir le scénario B.
+
+Vérifiez aussi qu'aucun filigrane n'est appliqué aux générations gratuites. Un filigrane sur trente plans rendrait le film inutilisable.
+
+### Les quatre scénarios chiffrés
+
+| | Situation | Coût | Reste | Film |
+|---|---|---|---|---|
+| **A** | Illimité couvre 9:16 en 4K | **58 cr.** | 298 | 5:12, **30 plans animés** |
+| **B** | Illimité, mais 1080p seulement | **58 cr.** | 298 | 5:12, **30 plans animés** |
+| **C** | Pas d'illimité — plan actuel | 260 cr. | 96 | 5:12, 9 plans animés |
+| **D** | Pas d'illimité — 2:00 tout animé | **343 cr.** | **13** | 2:00, 14 plans animés |
+
+Dans les scénarios A et B, les 58 crédits ne paient que les **images sources** — chaque plan animé part d'une image fixe validée, et celle-là reste payante.
+
+### Le scénario B n'est pas une déception
+
+Si l'illimité ne couvre que le 1080p, prenez-le sans hésiter. C'est déjà l'argument développé dans `seedance-animation.md` : YouTube rediffuse en 1080 × 1920 quoi qu'il arrive, et agrandir une gravure ne crée aucun détail — la finesse vient du trait, déjà présent dans l'image source. La 4K n'aurait servi qu'à conserver un master.
+
+**Animer trente plans en 1080p vaut infiniment mieux qu'en animer neuf en 4K.**
+
+### ⚠️ Réduire à 2 minutes est le mauvais levier
+
+Le repli proposé — raccourcir le film pour financer une animation intégrale — coûte **plus cher** que le plan actuel :
+
+**343 crédits pour 2 minutes, contre 260 pour 5:12.** Vous paieriez 83 crédits de plus pour un film deux fois et demie plus court, et il ne resterait que 13 crédits : **pas une seule reprise possible**. Un plan qui tremble, et vous êtes bloqué.
+
+La raison est arithmétique : raccourcir le film réduit le nombre de plans, mais passer de 9 à 14 plans *animés* augmente la dépense bien plus vite que la durée ne la diminue. Le coût suit les plans animés, pas les minutes.
+
+**Si l'illimité ne fonctionne pas, gardez les 5 minutes en hybride** (scénario C) : plus long, moins cher, et 96 crédits de marge. Ou, à budget serré, une version 2:00 hybride à 5 plans animés — 140 crédits, 216 de reste.
+
+### Si l'illimité fonctionne, ce qui change dans ce dossier
+
+La colonne « Mode » de la shot list devient caduque : **les 30 plans passent en 🎬**. Les prompts de mouvement des 9 plans sélectionnés sont déjà écrits ; il en manque 21, que je rédige dès que vous confirmez.
+
+Le principe directeur ne change pas et reste vital : **le mouvement vient de la caméra, jamais du sujet.** Une animation gratuite ne protège pas la gravure du tremblement — elle rend seulement les reprises indolores. Testez toujours sur le plan 24 avant de lancer la série.
+
+---
+
 ## PROMPTS — les 16 nouveaux plans
 
 Les plans 1, 2, 5, 6, 7, 8, 9, 22, 23, 24, 25, 29 et 30 réutilisent les prompts déjà écrits dans `prompts-a-coller.txt`. Voici les seize nouveaux.
