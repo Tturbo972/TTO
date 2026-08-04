@@ -119,13 +119,36 @@ La chute maratrium classique serait « et c'est pour ça qu'il faut connaître s
 
 ---
 
-## PRODUCTION — notes rapides
+## PRODUCTION — exécutée le 4 août 2026
 
-- **12 à 14 plans**, gravure lithographique XIXe, bloc de style identique à l'épisode 1, 9:16, 2 crédits/image.
-- Le sujet est un sportif du XXe siècle : la gravure le tire vers l'intemporel au lieu du photoréalisme maratrium — c'est un choix, pas un accident. Silhouettes uniquement, règle 9 inchangée : **aucun visage**, y compris le sien.
-- Plans clés : le lac à l'aube · la silhouette du coureur · le trolleybus qui perce la digue · **l'eau noire, presque abstraite** (le plan signature — la vitre qui apparaît dans le faisceau) · la main qui tend un corps vers la surface · le lit d'hôpital · la pile de lettres.
-- Le plan « eau noire » est l'équivalent du plan 24 de l'épisode 1 : celui qui teste le style et celui qu'on anime en priorité si on anime.
-- Voix off : mêmes six prises, même voix que l'épisode 1.
+**Modèle vidéo : `kling3_0_turbo`**, choisi explicitement après arbitrage budgétaire — Seedance 2.0 en 1080p aurait coûté 1288 crédits pour un solde de 292,5. Clips de 10 s, 9:16, 720p, sans son. Images sources `nano_banana_pro` 9:16 2k.
+
+**Coût réel : 12 images (24) + 12 clips (180) = 204 crédits.**
+
+### Shot list exécutée — 13 plans
+
+| # | Time | Acte | Sujet | Mouvement |
+|---|---|---|---|---|
+| 1 | 0:16 | A1 | Lac d'Erevan à l'aube, digue | push-in lent, brume |
+| 2 | 0:26 | A1 | Nageur monopalme sous l'eau, silhouette | figé, bulles montent |
+| 3 | 0:36 | A1 | Coureur le long du lac, de dos | figé, vapeur du souffle |
+| 4 | 0:45 | A2 | Trolleybus perçant la digue | tableau figé, poussière |
+| 5 | 0:55 | A2 | Surface noire, ondes concentriques | l'eau seule bouge, caméra fixe |
+| 6 | 1:05 | A2 | ⭐ Eau noire, vitre dans le faisceau | vase en suspension, descente |
+| 7 | 1:15 | A2 | Bras poussant un corps vers la surface | figés, bulles, montée |
+| 8 | 1:25 | A3 | Lit d'hôpital, fenêtre | poussière dans la lumière |
+| 9 | 1:35 | A3 | Piscine vide, plot de départ | eau frémissante |
+| 10 | 1:44 | A3 | Monopalme abandonnée sur un banc | lumière rasante |
+| 11 | 1:50 | A4 | Rotative de presse, feuilles suspendues | vapeur d'encre seule |
+| 12 | 1:58 | A4 | Monceau de lettres, une enveloppe | lumière qui respire |
+| 13 | 2:05 | Chute | ♻️ reprise du clip 1 — bouclage règle 7 | — |
+
+Le hook (0:00 → 0:16) se monte avec ces mêmes plans : plan 1 fixe sous la phrase choc, défilé des plans 4-6-7-2-11-12 à 0,35 s, retour au plan 1, lockup. Aucune image supplémentaire.
+
+### Il reste à produire
+- Voix off : 6 prises `seed_audio` — **le choix de la voix vous appartient**, même voix que l'épisode 1 si vous l'avez déjà choisie.
+- Sous-titres à générer une fois la voix calée.
+- Montage : couper la fin des clips (jamais le début), coupes franches, cloche sur le lockup.
 
 ## SOURCES
 
