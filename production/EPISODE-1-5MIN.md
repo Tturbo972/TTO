@@ -140,7 +140,7 @@ Les dix dernières secondes sont muettes, sur le plan de bouclage. Ce n'est pas 
 
 `🎬` = animé en Seedance 4K · `♻️` = réutilise le clip du plan 1
 
-**Offre illimitée confirmée en 9:16 4K — les 30 plans sont animés.** Seules les images sources restent payantes.
+⚠️ **L'offre illimitée n'existe pas sur ce compte** et Seedance en 4K coûte 220 crédits le clip. Seuls les 9 plans marqués ⭐ ci-dessous sont animés, en `kling3_0_turbo`. Voir « Coûts réels ».
 
 | # | Time | Durée | Sujet | Texte écran | Mode |
 |---|---|---|---|---|---|
@@ -176,8 +176,8 @@ Les dix dernières secondes sont muettes, sur le plan de bouclage. Ce n'est pas 
 | 30 | 5:02 | 10 s | Piste vide — **cadrage identique au plan 1** | **SAUF LES 13 MÈTRES** | ♻️ plan 1 |
 
 **29 images à générer × 2 = 58 crédits.**
-**30 plans animés = 0 crédit** (offre illimitée, 9:16 4K).
-**Total 58 crédits** sur 356 — il reste **298 crédits**.
+**9 plans animés × 15 = 135 crédits** (`kling3_0_turbo` 10 s — voir les coûts réels plus bas).
+**Total 193 crédits** sur 307,5 — il reste **114,5 crédits**.
 
 Les images sources restent payantes : chaque plan animé part d'une image fixe validée. C'est le seul poste du film.
 
@@ -197,60 +197,43 @@ Les 21 autres sont désormais animés eux aussi, mais leur mouvement est décora
 
 ---
 
-## OFFRE ILLIMITÉE SEEDANCE — À VÉRIFIER AVANT DE LANCER
+## ⚠️ COÛTS RÉELS — MESURÉS, PAS ESTIMÉS
 
-Si votre compte dispose de générations illimitées sur Seedance, le budget de ce dossier s'effondre et **les 30 plans peuvent être animés**, pas seulement 9.
+Les chiffres précédents de ce dossier étaient faux. Voici les prix relevés directement sur l'API, pour un clip de 10 s en 9:16 image-to-video.
 
-Une réserve, et une seule : l'allocation illimitée ne couvre pas le modèle en bloc, elle couvre **une liste de configurations précises**. Résolution, format et durée en font partie. Il est courant qu'une offre d'essai couvre le 1080p et exclue la 4K, ou couvre le 16:9 et pas le vertical.
+| Modèle | Configuration | Crédits / clip | 29 clips |
+|---|---|---|---|
+| `seedance_2_0` | 4K std | **220** | 6380 |
+| `seedance_2_0` | 1080p std | **90** | 2610 |
+| `seedance_2_0` | 720p fast | **35** | 1015 |
+| `seedance_2_0_mini` | 720p | **25** | 725 |
+| `kling3_0_turbo` | 10 s | **15** | 435 |
+| `kling3_0_turbo` | 5 s | **7,5** | 217 |
 
-### La vérification, en une commande
+**Solde disponible : 307,5 crédits.** Images confirmées à 2 crédits pièce en 2k.
 
-Dans l'application ou via l'API, appelez l'explorateur de modèles avec le filtre illimité :
+### Deux erreurs corrigées
 
-```
-models_explore(action: "list", type: "video", unlim: true)
-```
+**L'estimation à 22,5 crédits par plan était fausse d'un facteur dix.** Seedance en 4K coûte 220 crédits le clip. Un seul plan animé en 4K consommerait les deux tiers du solde.
 
-Trois choses à lire dans la réponse :
+**L'offre illimitée n'existe pas sur ce compte.** Le catalogue renvoie `unlim: { available: false }`. Seedance *accepte* les générations illimitées — d'où son `supports_unlim: true` — mais aucune allocation n'est disponible pour les dépenser. Toute animation est payante.
 
-1. **`seedance` figure-t-il dans la liste ?** S'il n'y est pas, l'offre ne le couvre pas.
-2. **Le bloc `unlim` en tête** dit si vous pouvez dépenser ces générations *maintenant* — une allocation peut exister mais être épuisée ou expirée.
-3. **La ligne « Unlim configs » en fin de réponse** énumère les configurations réellement couvertes. C'est la seule qui compte : cherchez-y `9:16` **et** `4k`. Si vous n'y trouvez que `1080p`, l'illimité fonctionne quand même — voir le scénario B.
+### Ce qui reste finançable
 
-Vérifiez aussi qu'aucun filigrane n'est appliqué aux générations gratuites. Un filigrane sur trente plans rendrait le film inutilisable.
+Aucune configuration ne permet d'animer les 29 plans en Seedance. La seule qui tienne dans le solde est `kling3_0_turbo` en 5 s, à 217 crédits — mais les plans font 8 à 11 s, ce qui obligerait à geler ou ralentir chaque fin de clip.
 
-### Les quatre scénarios chiffrés
+**Recommandation : revenir à l'hybride.** Animer les 9 plans où le mouvement est le sujet, en `kling3_0_turbo` 10 s :
 
-| | Situation | Coût | Reste | Film |
-|---|---|---|---|---|
-| **A** | Illimité couvre 9:16 en 4K | **58 cr.** | 298 | 5:12, **30 plans animés** |
-| **B** | Illimité, mais 1080p seulement | **58 cr.** | 298 | 5:12, **30 plans animés** |
-| **C** | Pas d'illimité — plan actuel | 260 cr. | 96 | 5:12, 9 plans animés |
-| **D** | Pas d'illimité — 2:00 tout animé | **343 cr.** | **13** | 2:00, 14 plans animés |
+| Poste | Calcul | Crédits |
+|---|---|---|
+| 29 images | 29 × 2 | 58 |
+| 9 plans animés | 9 × 15 | 135 |
+| **Total** | | **193** |
+| **Reste** | | **114,5** |
 
-Dans les scénarios A et B, les 58 crédits ne paient que les **images sources** — chaque plan animé part d'une image fixe validée, et celle-là reste payante.
+Les 20 autres plans restent en images fixes avec un zoom lent de 3 %. C'est le plan initial, et il redevient le bon — le détour par la gratuité était un mirage.
 
-### Le scénario B n'est pas une déception
-
-Si l'illimité ne couvre que le 1080p, prenez-le sans hésiter. C'est déjà l'argument développé dans `seedance-animation.md` : YouTube rediffuse en 1080 × 1920 quoi qu'il arrive, et agrandir une gravure ne crée aucun détail — la finesse vient du trait, déjà présent dans l'image source. La 4K n'aurait servi qu'à conserver un master.
-
-**Animer trente plans en 1080p vaut infiniment mieux qu'en animer neuf en 4K.**
-
-### ⚠️ Réduire à 2 minutes est le mauvais levier
-
-Le repli proposé — raccourcir le film pour financer une animation intégrale — coûte **plus cher** que le plan actuel :
-
-**343 crédits pour 2 minutes, contre 260 pour 5:12.** Vous paieriez 83 crédits de plus pour un film deux fois et demie plus court, et il ne resterait que 13 crédits : **pas une seule reprise possible**. Un plan qui tremble, et vous êtes bloqué.
-
-La raison est arithmétique : raccourcir le film réduit le nombre de plans, mais passer de 9 à 14 plans *animés* augmente la dépense bien plus vite que la durée ne la diminue. Le coût suit les plans animés, pas les minutes.
-
-**Si l'illimité ne fonctionne pas, gardez les 5 minutes en hybride** (scénario C) : plus long, moins cher, et 96 crédits de marge. Ou, à budget serré, une version 2:00 hybride à 5 plans animés — 140 crédits, 216 de reste.
-
-### Si l'illimité fonctionne, ce qui change dans ce dossier
-
-La colonne « Mode » de la shot list devient caduque : **les 30 plans passent en 🎬**. Les prompts de mouvement des 9 plans sélectionnés sont déjà écrits ; il en manque 21, que je rédige dès que vous confirmez.
-
-Le principe directeur ne change pas et reste vital : **le mouvement vient de la caméra, jamais du sujet.** Une animation gratuite ne protège pas la gravure du tremblement — elle rend seulement les reprises indolores. Testez toujours sur le plan 24 avant de lancer la série.
+Si vous tenez à Seedance pour sa qualité, il faut choisir : **3 plans en 4K** (660 crédits, hors budget), ou **9 plans en 720p fast** (315 crédits, hors budget de peu). Aucune option Seedance ne tient sans racheter des crédits.
 
 ---
 
