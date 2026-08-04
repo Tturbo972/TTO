@@ -12,6 +12,9 @@ Chaîne YouTube/TikTok faceless de récits courts.
 
 | Fichier | Rôle |
 |---|---|
+| `production/EPISODE-1-5MIN.md` | **⭐ Épisode 1, version 5 minutes** — script, 30 plans, prompts, plan d'animation hybride. Version de référence. |
+| `production/EPISODE-1-youtube-kit.md` | **Kit YouTube** — titre, vignettes, description, chapitres, écran de fin, checklist. |
+| `production/13-metres-5min.srt` | Sous-titres de la version 5 min, 142 segments. |
 | `production/EPISODE-1-feuille-de-prod.md` | **⭐ Feuille de production épisode 1** — tous les prompts dans l'ordre d'exécution, avec cases à cocher et coûts. C'est le document à ouvrir pour produire. |
 | `production/tto-charte-hook.md` | **Charte du hook** — gabarit d'ouverture fixe, identique à chaque épisode. Inclut le brief du logo. À lire en premier. |
 | `production/cirque-90s.md` | **Épisode 1 — « 13 mètres »**, 1:44 en **9:16 vertical**. Script, shot list, 13 prompts recomposés pour le vertical. C'est la version de référence. |
