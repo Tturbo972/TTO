@@ -55,15 +55,16 @@ Les règles éditoriales et de production sont détaillées dans les dossiers. E
 
 - **Images :** Higgsfield, `nano_banana_pro`, **9:16 vertical**, 2k — 2 crédits/image.
 - **Voix off :** Higgsfield, `seed_audio`.
-- **Animation :** `seedance_2_0` en image-to-video, 9:16, **4K, offre illimitée — 0 crédit**. Chaque image fixe validée sert de première frame. Le mouvement vient de la caméra, jamais du sujet, pour protéger la gravure.
+- **Animation :** `kling3_0_turbo` en image-to-video, 9:16, 720p, 15 crédits/clip de 10 s. L'offre illimitée n'existe pas sur ce compte et Seedance 2.0 coûte 90 à 220 crédits le clip — hors budget. Le mouvement vient de la caméra, jamais du sujet, pour protéger la gravure.
 
 `.claude/settings.json` autorise les outils Higgsfield, `generate_video` compris depuis le passage à l'animation. C'est le poste coûteux — voir le budget par paliers dans le dossier Seedance avant de lancer une série.
 
 ---
 
-## État
+## État (4 août 2026)
 
-- Épisode 1 : version 5:12 finalisée — script vérifié en recherche, 30 plans, prompts, sous-titres, kit YouTube complet.
-- Plan 1 généré en 16:9 — **à refaire en 9:16**. Direction artistique non validée visuellement.
-- Reste à produire : 29 images (58 crédits), 29 animations (0 crédit), la mascotte, le logo, la voix off. Les 3 effets sonores viennent d'une banque de sons.
-- **Accès Higgsfield fermé depuis cet environnement** : les 5 domaines sont refusés par la politique réseau. La production se fait dans l'application.
+- **Épisode 2 « 25 secondes » : plans produits.** 12 images + 12 clips animés, tous réussis (204 crédits). Manifeste dans `EPISODE-2-assets.md`. Reste : voix off (choix de voix à faire), montage, lockup.
+- Épisode 1 « 13 mètres » : dossier complet (script 5:12, 30 plans, prompts, sous-titres, kits YouTube et TikTok). Images non générées, sauf le plan 24 (image + clip test).
+- Mascotte et logo : prompts prêts, non générés (6 crédits, une fois).
+- **Solde : 88,5 crédits.**
+- L'accès Higgsfield fonctionne depuis la session via les outils MCP (serveur « Magic »). Le CLI et les domaines directs restent bloqués par la politique réseau.
