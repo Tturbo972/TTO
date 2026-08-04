@@ -138,48 +138,52 @@ Les dix dernières secondes sont muettes, sur le plan de bouclage. Ce n'est pas 
 
 ## SHOT LIST — 30 plans
 
-`🎬` = animé en Seedance · `📷` = image fixe, mouvement créé au montage
+`🎬` = animé en Seedance 4K · `♻️` = réutilise le clip du plan 1
+
+**Offre illimitée confirmée en 9:16 4K — les 30 plans sont animés.** Seules les images sources restent payantes.
 
 | # | Time | Durée | Sujet | Texte écran | Mode |
 |---|---|---|---|---|---|
 | 1 | 0:16 | 10 s | Piste vide vue du dessus | | 🎬 |
 | 2 | 0:26 | 9 s | Silhouette d'officier dans une porte d'écurie | **1768** | 🎬 |
-| 3 | 0:35 | 9 s | Terrain vague, piquets et corde tendue | *Londres* | 📷 |
-| 4 | 0:44 | 10 s | Main plantant un piquet dans la terre | | 📷 |
+| 3 | 0:35 | 9 s | Terrain vague, piquets et corde tendue | *Londres* | 🎬 |
+| 4 | 0:44 | 10 s | Main plantant un piquet dans la terre | | 🎬 |
 | 5 | 0:54 | 11 s | Cavalier debout sur cheval au galop | | 🎬 |
-| 6 | 1:05 | 10 s | Sabots, arc de terre projetée | | 📷 |
+| 6 | 1:05 | 10 s | Sabots, arc de terre projetée | | 🎬 |
 | 7 | 1:15 | 10 s | Fouet se déroulant depuis le centre | *13 m* | 🎬 |
-| 8 | 1:25 | 10 s | Galeries se remplissant de foule | | 📷 |
-| 9 | 1:35 | 10 s | Musiciens et clown entrant en piste | | 📷 |
-| 10 | 1:45 | 10 s | Chevaux à l'écurie, au repos | | 📷 |
-| 11 | 1:55 | 10 s | Façade rivale, enseigne gravée | **1782** | 📷 |
-| 12 | 2:05 | 10 s | Le mot ROYAL CIRCUS gravé | **ROYAL CIRCUS** | 📷 |
+| 8 | 1:25 | 10 s | Galeries se remplissant de foule | | 🎬 |
+| 9 | 1:35 | 10 s | Musiciens et clown entrant en piste | | 🎬 |
+| 10 | 1:45 | 10 s | Chevaux à l'écurie, au repos | | 🎬 |
+| 11 | 1:55 | 10 s | Façade rivale, enseigne gravée | **1782** | 🎬 |
+| 12 | 2:05 | 10 s | Le mot ROYAL CIRCUS gravé | **ROYAL CIRCUS** | 🎬 |
 | 13 | 2:15 | 10 s | Cercle tracé au compas sur un plan | *kirkos = cercle* | 🎬 |
-| 14 | 2:25 | 10 s | Chapiteau monté sur un pré | | 📷 |
-| 15 | 2:35 | 10 s | Affiches placardées sur un mur | | 📷 |
+| 14 | 2:25 | 10 s | Chapiteau monté sur un pré | | 🎬 |
+| 15 | 2:35 | 10 s | Affiches placardées sur un mur | | 🎬 |
 | 16 | 2:45 | 10 s | Train de cirque à l'arrêt, wagons | | 🎬 |
-| 17 | 2:55 | 10 s | Piquet planté, cercle retracé | **13 m — PARTOUT** | 📷 |
-| 18 | 3:05 | 10 s | Gymnase toulousain, agrès | *Toulouse* | 📷 |
+| 17 | 2:55 | 10 s | Piquet planté, cercle retracé | **13 m — PARTOUT** | 🎬 |
+| 18 | 3:05 | 10 s | Gymnase toulousain, agrès | *Toulouse* | 🎬 |
 | 19 | 3:15 | 11 s | Barre suspendue au-dessus d'un bassin | | 🎬 |
-| 20 | 3:26 | 9 s | Surface de l'eau, reflet de la barre | | 📷 |
-| 21 | 3:35 | 10 s | Livres de droit fermés, poussière | | 📷 |
+| 20 | 3:26 | 9 s | Surface de l'eau, reflet de la barre | | 🎬 |
+| 21 | 3:35 | 10 s | Livres de droit fermés, poussière | | 🎬 |
 | 22 | 3:45 | 10 s | Intérieur du Cirque Napoléon | **12 NOVEMBRE 1859** | 🎬 |
-| 23 | 3:55 | 10 s | Mains craie sur barre de trapèze | | 📷 |
+| 23 | 3:55 | 10 s | Mains craie sur barre de trapèze | | 🎬 |
 | 24 | 4:05 | 11 s | Corps en vol entre deux barres | **IL LÂCHE LA BARRE** | 🎬 ⭐ |
-| 25 | 4:16 | 9 s | Le maillot posé à plat, vu du dessus | **« LE MAILLOT »** | 📷 |
-| 26 | 4:25 | 10 s | Partition et affiche de music-hall | **1867** | 📷 |
-| 27 | 4:35 | 8 s | Pierre tombale toulousaine, sobre | **1870 — 32 ANS** | 📷 |
-| 28 | 4:43 | 9 s | Cage vide, porte ouverte | | 📷 |
+| 25 | 4:16 | 9 s | Le maillot posé à plat, vu du dessus | **« LE MAILLOT »** | 🎬 |
+| 26 | 4:25 | 10 s | Partition et affiche de music-hall | **1867** | 🎬 |
+| 27 | 4:35 | 8 s | Pierre tombale toulousaine, sobre | **1870 — 32 ANS** | 🎬 |
+| 28 | 4:43 | 9 s | Cage vide, porte ouverte | | 🎬 |
 | 29 | 4:52 | 10 s | Acrobate contemporain sur tissus | **1984** | 🎬 |
 | 30 | 5:02 | 10 s | Piste vide — **cadrage identique au plan 1** | **SAUF LES 13 MÈTRES** | ♻️ plan 1 |
 
 **29 images à générer × 2 = 58 crédits.**
-**9 plans animés × ~22,5 = ~202 crédits.**
-**Total ~260 crédits** sur 356 — il reste ~96 de marge pour les reprises.
+**30 plans animés = 0 crédit** (offre illimitée, 9:16 4K).
+**Total 58 crédits** sur 356 — il reste **298 crédits**.
 
-### Pourquoi ces 9 plans-là sont animés
+Les images sources restent payantes : chaque plan animé part d'une image fixe validée. C'est le seul poste du film.
 
-Un plan mérite l'animation quand **le mouvement est le sujet**, pas une décoration.
+### Ce que la gratuité ne change pas
+
+Les 9 plans ci-dessous restaient les plus importants quand il fallait choisir. Ils le restent : ce sont eux qu'il faut regarder en premier au contrôle, parce que **le mouvement y est le sujet** et qu'un défaut s'y verra immédiatement.
 
 - **1 et 30** — l'ouverture et le bouclage. Ce sont les deux plans que le spectateur regarde le plus longtemps.
 - **5** — le galop, seul plan où le mouvement porte le fait expliqué.
@@ -189,7 +193,7 @@ Un plan mérite l'animation quand **le mouvement est le sujet**, pas une décora
 - **19** — la barre au-dessus de l'eau, image la plus mémorable de l'acte 4.
 - **22 et 24** — le Cirque Napoléon et le corps en vol. Le plan 24 est le sommet du film.
 
-Les 21 autres sont des images fixes : un zoom lent de 3 % sur dix secondes suffit, et personne ne verra la différence.
+Les 21 autres sont désormais animés eux aussi, mais leur mouvement est décoratif : s'ils tremblent, le repli sur l'image fixe avec un zoom lent de 3 % ne coûte rien et personne ne verra la différence.
 
 ---
 

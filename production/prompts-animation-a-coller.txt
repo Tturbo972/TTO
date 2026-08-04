@@ -1,0 +1,219 @@
+================================================================
+TTO - EPISODE 1 - PROMPTS D'ANIMATION PRETS A COLLER
+================================================================
+Modele     : seedance_2_0
+Mode       : image-to-video (image fixe validee en 1ere frame)
+Aspect     : 9:16
+Resolution : 4K
+Duree      : 10 s par clip
+Cout       : 0 credit (offre illimitee)
+
+29 clips a generer. Le plan 30 reutilise le clip du plan 1.
+
+ORDRE OBLIGATOIRE : generez d'abord TOUTES les images fixes, puis
+animez. Chaque animation part de son image source - sans elle,
+rien ne peut demarrer.
+================================================================
+
+
+### LE BLOC NEGATIF - A COLLER DANS CHAQUE PROMPT ###
+### Ne le modifiez jamais, il protege la gravure. ###
+
+no morphing, no warping, no melting, no flickering lines, no shimmering texture, no style drift, no added detail, no photorealism, no colour shift, no text, no captions, no watermark, no face deformation, preserve the etched line work and paper grain exactly.
+
+
+================================================================
+### COMMENCEZ PAR LE PLAN 24 ###
+### Un seul clip. Regardez-le. Puis lancez le reste. ###
+================================================================
+
+
+--- PLAN 24 - le corps en vol - PLAN TEST ---
+
+MOTION: the body hangs suspended in the air in extreme slow motion, drifting almost imperceptibly, arms held still. The shaft of light breathes faintly. No limb articulation, no rotation. Slow, weightless, held.
+
+
+================================================================
+### LES 28 AUTRES, DANS L'ORDRE DU FILM ###
+================================================================
+
+
+--- PLAN 1 - la piste vide (ouverture) ---
+
+MOTION: extremely slow push-in toward the centre of the ring, barely perceptible. The engraving itself is completely static. Only fine dust motes drift slowly through the air. Locked, steady, no rotation.
+
+
+--- PLAN 2 - la silhouette d'officier ---
+
+MOTION: the officer stands perfectly still, absolutely no body movement. Straw dust and fine particles drift slowly downward through the shaft of light. Extremely slow push-in toward the doorway.
+
+
+--- PLAN 3 - le terrain vague ---
+
+MOTION: the ground, stakes and rope are completely static. Only fine dust and loose grass drift low across the earth. Slow camera push-in along the line of the rope toward the far side of the circle.
+
+
+--- PLAN 4 - la main et le piquet - RISQUE ELEVE ---
+
+MOTION: the hand and mallet are frozen at the moment of impact, no arm movement, no swing, no articulation. Only loose soil particles scatter and fall slowly around the point of the stake. Extremely slow push-in.
+
+
+--- PLAN 5 - le cavalier debout ---
+
+MOTION: the horse and rider are frozen mid-stride, a static engraved tableau — no leg movement, no gait animation whatsoever. Only the mane, the coat tails and airborne dust drift. Slow camera push-in from below.
+
+
+--- PLAN 6 - les sabots ---
+
+MOTION: clods of earth and dust hang and drift slowly upward in the air, as if in slow motion. The hooves themselves stay frozen mid-stride. Camera locked low and still.
+
+
+--- PLAN 7 - le fouet ---
+
+MOTION: slow camera travel forward along the line of the whip, following it into depth toward the distant ring edge. The whip itself stays perfectly still on the ground. Fine sawdust drifts.
+
+
+--- PLAN 8 - les galeries ---
+
+MOTION: the crowd is a single static silhouette mass — no individual figures move, no heads turn. Only the gaslight glow pulses gently and haze drifts. Very slow tilt upward across the tiers.
+
+
+--- PLAN 9 - musiciens et clown ---
+
+MOTION: the figures are frozen mid-step from behind, no walking animation, no limb movement. Only the suspended dust in the light beams drifts. Slow camera push-in following behind them.
+
+
+--- PLAN 10 - les chevaux au repos ---
+
+MOTION: the horses stand perfectly still, heads lowered, no movement of legs or heads. Only the steam rises slowly from their flanks and dust drifts through the shaft of light above. Extremely slow push-in.
+
+
+--- PLAN 11 - la facade rivale ---
+
+MOTION: the building and the waiting carriages are completely static. Only the lamplight in the windows flickers faintly and evening haze drifts across the facade. Slow push-in with a very slight tilt upward.
+
+
+--- PLAN 12 - l'enseigne gravee ---
+
+MOTION: the carved wood is entirely static, no movement at all. Only the raking light shifts very slowly across the cut grooves, deepening and releasing the shadows. Extremely slow lateral drift.
+
+
+--- PLAN 13 - le compas sur le plan ---
+
+MOTION: the dividers stay perfectly still, pinned at the centre. Only the scribed circular line grows slowly across the paper, and fine paper dust drifts in the light. Very slow push-in on the pivot point.
+
+
+--- PLAN 14 - le chapiteau ---
+
+MOTION: the tent, mast and guy ropes are static. Only the canvas edges breathe faintly in the wind and clouds drift slowly behind the mast. Slow push-in toward the entrance.
+
+
+--- PLAN 15 - les affiches ---
+
+MOTION: the wall and the pasted bills are static. Only the torn edges of the topmost posters lift and settle faintly, and fine dust drifts. Slow lateral camera drift across the wall.
+
+
+--- PLAN 16 - le train de cirque ---
+
+MOTION: the train is completely stationary, no wheel movement, no travel. Only the steam rises slowly and vertically from the locomotive, drifting sideways at the top of the frame. Extremely slow push-in along the rails.
+
+
+--- PLAN 17 - le cercle retrace ---
+
+MOTION: the rope stays taut and perfectly still. Only the scored line grows slowly along the ground ahead of it, and loose earth drifts. Slow camera follow along the curve of the arc.
+
+
+--- PLAN 18 - le gymnase toulousain ---
+
+MOTION: the room is empty and still, the bars and rings barely swaying, almost imperceptibly. Dust motes drift slowly through the bars of light falling from the shuttered windows. Slow push-in down the length of the hall.
+
+
+--- PLAN 19 - la barre au-dessus du bassin ---
+
+MOTION: the suspended bar hangs perfectly still. Only the water surface below moves — very slow, gentle ripples spreading outward, light shifting on the surface. Slow descending camera move toward the water.
+
+
+--- PLAN 20 - la surface de l'eau - LE SEUL SUJET QUI BOUGE ---
+
+MOTION: slow, gentle ripples spread outward across the still water surface, the reflection of the bar and its ropes breaking and reforming. Light shifts on the moving surface. Camera locked and still, no push-in.
+
+
+--- PLAN 21 - les livres de droit ---
+
+MOTION: the books are completely static, nothing moves or opens. Only dust motes drift and settle slowly in the raking side light. Extremely slow push-in on the top cover.
+
+
+--- PLAN 22 - le Cirque Napoleon ---
+
+MOTION: slow tilt upward across the stacked balconies. The crowd stays a static silhouette mass, no individual movement. Chandelier light flickers faintly, haze drifts in the upper air.
+
+
+--- PLAN 23 - les mains sur la barre ---
+
+MOTION: the hands stay locked in their grip, no finger movement. Fine chalk dust falls slowly from the bar. Extremely slow push-in on the knuckles.
+
+
+--- PLAN 25 - le maillot ---
+
+MOTION: the fabric is completely still, no rippling, no folding. Only the raking light moves gently across the knit texture. Slow overhead camera drift along the length of the garment.
+
+
+--- PLAN 26 - la partition ---
+
+MOTION: the paper lies completely still, no pages turning, no curling. Only the gaslight flickers faintly across the sheet and fine dust drifts above it. Slow push-in.
+
+
+--- PLAN 27 - la pierre tombale ---
+
+MOTION: the headstone is entirely static. Only the cypress branches behind it move very faintly, and the long evening shadows lengthen almost imperceptibly across the ground. Very slow push-in.
+
+
+--- PLAN 28 - la cage vide ---
+
+MOTION: the cage and its open door are completely static, no swinging. Only loose straw dust drifts across the floor and light shifts slowly through the bars. Slow push-in through the open doorway into the darkness beyond.
+
+
+--- PLAN 29 - l'acrobate sur tissus ---
+
+MOTION: the silks ripple very slowly along their length. The acrobat's silhouette stays still, no limb movement, no spinning. Slow descending camera move. Single beam of light breathing faintly.
+
+
+--- PLAN 30 - la piste vide (bouclage) ---
+
+NE PAS GENERER. Reutilisez le clip du plan 1, ralenti pour
+atteindre la duree. Le bouclage exige un cadrage strictement
+identique - regenerer produirait une variation qui casserait
+l'effet de replay.
+
+
+================================================================
+CONTROLES
+================================================================
+
+A REGARDER EN PRIORITE (le mouvement y est le sujet) :
+  plans 1, 2, 5, 7, 13, 16, 19, 22, 24
+
+RISQUE ELEVE :
+  plan 4  - main tenant un maillet. Les doigts fusionnent, l'outil
+            se tord. Si ca tremble : gardez l'image fixe, un zoom
+            lent sur une main figee est plus fort qu'un mouvement
+            approximatif.
+  plans 8, 9, 22 - foules. Aucun mouvement individuel ne doit
+            apparaitre. Si des silhouettes s'agitent, regenerez.
+
+CE QUI DOIT VOUS ALERTER :
+  - les hachures "nagent" ou scintillent
+  - le grain de papier bouge d'une frame a l'autre
+  - un contour se deforme lentement au fil du clip
+  - un visage apparait la ou il n'y avait qu'une silhouette
+
+COUPEZ TOUJOURS LA FIN DU CLIP, JAMAIS LE DEBUT.
+La derive s'accumule avec le temps : les dernieres secondes sont
+les plus instables.
+
+REPLI GRATUIT :
+Tout plan rate peut rester en image fixe avec un zoom lent de 3 %
+sur sa duree. Sur 21 des 30 plans, le mouvement est decoratif -
+personne ne verra la difference.
+
+================================================================

@@ -14,6 +14,8 @@ Chaîne YouTube/TikTok faceless de récits courts.
 |---|---|
 | `production/EPISODE-1-5MIN.md` | **⭐ Épisode 1, version 5 minutes** — script, 30 plans, prompts, plan d'animation hybride. Version de référence. |
 | `production/EPISODE-1-youtube-kit.md` | **Kit YouTube** — titre, vignettes, description, chapitres, écran de fin, checklist. |
+| `production/prompts-a-coller.txt` | Prompts d'**images** en texte brut, prêts à coller. |
+| `production/prompts-animation-a-coller.txt` | Prompts d'**animation** Seedance en texte brut, 29 clips. |
 | `production/13-metres-5min.srt` | Sous-titres de la version 5 min, 142 segments. |
 | `production/EPISODE-1-feuille-de-prod.md` | **⭐ Feuille de production épisode 1** — tous les prompts dans l'ordre d'exécution, avec cases à cocher et coûts. C'est le document à ouvrir pour produire. |
 | `production/tto-charte-hook.md` | **Charte du hook** — gabarit d'ouverture fixe, identique à chaque épisode. Inclut le brief du logo. À lire en premier. |
@@ -48,7 +50,7 @@ Les règles éditoriales et de production sont détaillées dans les dossiers. E
 
 - **Images :** Higgsfield, `nano_banana_pro`, **9:16 vertical**, 2k — 2 crédits/image.
 - **Voix off :** Higgsfield, `seed_audio`.
-- **Animation :** `seedance_2_0` en image-to-video, 9:16, ~22,5 crédits/plan. Chaque image fixe validée sert de première frame. Voir `production/seedance-animation.md` — le mouvement vient de la caméra, jamais du sujet, pour protéger la gravure.
+- **Animation :** `seedance_2_0` en image-to-video, 9:16, **4K, offre illimitée — 0 crédit**. Chaque image fixe validée sert de première frame. Le mouvement vient de la caméra, jamais du sujet, pour protéger la gravure.
 
 `.claude/settings.json` autorise les outils Higgsfield, `generate_video` compris depuis le passage à l'animation. C'est le poste coûteux — voir le budget par paliers dans le dossier Seedance avant de lancer une série.
 
@@ -58,5 +60,5 @@ Les règles éditoriales et de production sont détaillées dans les dossiers. E
 
 - Épisode 1 : version 5:12 finalisée — script vérifié en recherche, 30 plans, prompts, sous-titres, kit YouTube complet.
 - Plan 1 généré en 16:9 — **à refaire en 9:16**. Direction artistique non validée visuellement.
-- Reste à produire : 13 images (26 crédits), 13 animations (~292 crédits), le logo, la voix off, les 3 effets sonores.
+- Reste à produire : 29 images (58 crédits), 29 animations (0 crédit), la mascotte, le logo, la voix off. Les 3 effets sonores viennent d'une banque de sons.
 - **Accès Higgsfield fermé depuis cet environnement** : les 5 domaines sont refusés par la politique réseau. La production se fait dans l'application.
