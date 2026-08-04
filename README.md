@@ -19,6 +19,7 @@ Chaîne YouTube/TikTok faceless de récits courts.
 | `production/EPISODE-2-assets.md` | Les 24 assets générés de l'épisode 2 (12 images + 12 clips). |
 | `production/EPISODE-2-youtube-kit.md` | **Kit YouTube ép. 2** — c'est un **Short** : première frame, titre, description, checklist. |
 | `production/25-secondes.srt` | Sous-titres épisode 2, 63 segments. |
+| `production/EPISODE-2-audio.md` | **Piste audio ép. 2** — 120 s, voix Marcus, calée sur les 12 clips. |
 | `production/prompts-a-coller.txt` | Prompts d'**images** en texte brut, prêts à coller. |
 | `production/prompts-animation-a-coller.txt` | Prompts d'**animation** Seedance en texte brut, 29 clips. |
 | `production/13-metres-5min.srt` | Sous-titres de la version 5 min, 142 segments. |
@@ -54,7 +55,7 @@ Les règles éditoriales et de production sont détaillées dans les dossiers. E
 ## Pile technique
 
 - **Images :** Higgsfield, `nano_banana_pro`, **9:16 vertical**, 2k — 2 crédits/image.
-- **Voix off :** Higgsfield, `seed_audio`.
+- **Voix off :** Higgsfield, `seed_audio`, préréglage **Marcus** (`6f98d3dd-324f-4845-8c28-c1d1647a06cd`) — voix de chaîne, à réutiliser sur tous les épisodes.
 - **Animation :** `kling3_0_turbo` en image-to-video, 9:16, 720p, 15 crédits/clip de 10 s. L'offre illimitée n'existe pas sur ce compte et Seedance 2.0 coûte 90 à 220 crédits le clip — hors budget. Le mouvement vient de la caméra, jamais du sujet, pour protéger la gravure.
 
 `.claude/settings.json` autorise les outils Higgsfield, `generate_video` compris depuis le passage à l'animation. C'est le poste coûteux — voir le budget par paliers dans le dossier Seedance avant de lancer une série.
