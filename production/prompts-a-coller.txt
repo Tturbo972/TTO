@@ -1,0 +1,168 @@
+================================================================
+TTO - EPISODE 1 "13 METRES" - PROMPTS PRETS A COLLER
+================================================================
+Modele : nano_banana_pro   Resolution : 2k
+Aspect : 9:16 pour les plans, 1:1 pour mascotte et logo
+Cout   : 2 credits par image
+
+Chaque prompt tient sur UNE SEULE LIGNE. Selectionnez la ligne
+entiere, du premier "A" jusqu'au dernier "watermark."
+================================================================
+
+
+### ETAPE 1 - VALIDATION DU STYLE (3 images, 6 credits) ###
+### Generez ces trois-la, puis ARRETEZ-VOUS.            ###
+
+
+--- PLAN 3 - silhouette d'officier - aspect 9:16 ---
+
+A 19th-century lithographic engraving, tall vertical composition: the full-length silhouette of an 18th-century cavalry officer in tall boots and long coat, standing backlit in a tall narrow stable doorway that fills the height of the frame, face not visible, straw and dust suspended in the light. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No text, no captions, no watermark.
+
+
+--- PLAN 9 - le Cirque Napoleon - aspect 9:16 ---
+
+A 19th-century lithographic engraving, tall vertical composition: seen from the ring floor looking steeply up, the tiered balconies of an ornate 1850s Paris circus rising in stacked rings above the viewer, packed with a crowd in silhouette, chandeliers and heavy velvet drapery overhead. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No text, no captions, no watermark.
+
+
+--- PLAN 11 - le corps en vol - aspect 9:16 - PLAN CLE ---
+
+A 19th-century lithographic engraving, tall vertical composition: the moment of release — a human body in mid-air, pure silhouette, arms extended, suspended in a tall empty shaft of light, one trapeze bar leaving the top of the frame and another entering from the side, nothing at all beneath, deep void filling the lower half. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No text, no captions, no watermark.
+
+
+================================================================
+### ETAPE 2 - LES 10 IMAGES RESTANTES (20 credits) ###
+### A ne lancer QUE si l'etape 1 est concluante.   ###
+================================================================
+
+
+--- PLANS 1 ET 14 - la piste vide - aspect 9:16 ---
+--- (un seul fichier sert aux deux plans) ---
+
+A 19th-century lithographic engraving, vertical composition: a top-down view of an empty circular circus ring, the perfect circle centred and filling the frame width, raked sawdust inside, deep darkness above and below the ring. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No text, no captions, no watermark.
+
+
+--- PLAN 2 - macro sciure - aspect 9:16 ---
+
+A 19th-century lithographic engraving, vertical composition: an extreme close-up of sawdust grains and a worn wooden circus ring border running across the lower third, shallow depth of field, darkness above. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No text, no captions, no watermark.
+
+
+--- PLAN 4 - le cavalier debout - aspect 9:16 ---
+
+A 19th-century lithographic engraving, tall vertical composition: seen from a low angle looking up, a standing rider in silhouette balanced upright on the back of a galloping horse, the rider's full height occupying the upper frame, sky and dust behind. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No text, no captions, no watermark.
+
+
+--- PLAN 5 - les sabots - aspect 9:16 ---
+
+A 19th-century lithographic engraving, vertical composition: a very low ground-level angle of galloping hooves throwing up earth in a curved arc towards the top of the frame, sense of speed and motion. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No text, no captions, no watermark.
+
+
+--- PLAN 6 - le fouet - aspect 9:16 ---
+
+A 19th-century lithographic engraving, vertical composition: a long training whip uncoiling away from the viewer into deep perspective, receding from the foreground towards a distant circular ring edge, sawdust disturbed along its path, strong depth from bottom to top of frame. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No text, no captions, no watermark.
+
+
+--- PLAN 7 - les galeries - aspect 9:16 ---
+
+A 19th-century lithographic engraving, tall vertical composition: looking up at the stacked wooden galleries of an 18th-century amphitheatre, three tiers rising one above the other, packed with a crowd in silhouette, gaslight glow. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No text, no captions, no watermark.
+
+
+--- PLAN 8 - musiciens et clown - aspect 9:16 ---
+
+A 19th-century lithographic engraving, vertical composition: musicians and a clown in period costume seen from behind, walking away from the viewer into a lit circular ring, staggered in depth from foreground to background, dust suspended in the light beams. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No text, no captions, no watermark.
+
+
+--- PLAN 10 - les mains sur la barre - aspect 9:16 ---
+
+A 19th-century lithographic engraving, vertical composition: an extreme close-up of chalked hands gripping a wooden trapeze bar, forearms rising vertically out of the top of the frame, tension visible in the fingers and tendons, darkness below. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No text, no captions, no watermark.
+
+
+--- PLAN 12 - le maillot - aspect 9:16 ---
+
+A 19th-century lithographic engraving, vertical composition: a one-piece knitted garment laid flat on a wooden table seen from directly above, the garment running vertically down the length of the frame, lit from the side, folds and knit texture visible. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No text, no captions, no watermark.
+
+
+--- PLAN 13 - l'acrobate sur tissus - aspect 9:16 ---
+
+A 19th-century lithographic engraving, tall vertical composition: a contemporary aerial acrobat suspended on hanging silks, the silks descending from the very top of the frame and trailing out of the bottom, a single vertical beam of light, pure silhouette, surrounding darkness, no props. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No text, no captions, no watermark.
+
+
+================================================================
+### ETAPE 3 - IDENTITE DE CHAINE (6 credits, UNE SEULE FOIS) ###
+### ATTENTION : aspect 1:1, pas 9:16                         ###
+================================================================
+
+
+--- MASCOTTE A - l'Arpenteur - aspect 1:1 ---
+
+A 19th-century lithographic engraving, square emblem composition: the full-length silhouette of a lone figure in a long coat and wide-brimmed hat, seen in complete backlit silhouette with absolutely no facial features visible, standing in profile and holding up a pair of brass dividers in one hand as if measuring something distant. Centred, symmetrical, generous clean margins, strong readable silhouette against a plain luminous background. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No face, no eyes, no facial detail, no text, no captions, no watermark.
+
+
+--- MASCOTTE B - la main et le compas - aspect 1:1 ---
+
+A 19th-century lithographic engraving, square emblem composition: a single hand holding a pair of brass dividers open above a plain surface, seen from a slightly raised angle, the points of the dividers resting precisely on the surface. No arm beyond the wrist, no figure, no person. Centred, symmetrical, generous clean margins. Etched line work and dense cross-hatching, aged paper texture with visible fibre and foxing, limited palette of ink black, warm sepia and a single crimson accent, subtle paper grain. No text, no captions, no watermark.
+
+
+--- LOGO TTO - aspect 1:1 ---
+
+A logo mark: the three letters "TTO" as a centred monogram, engraved 19th-century letterpress style, bold condensed serif capitals with fine cross-hatching inside the letterforms, enclosed in a thin engraved circular rule. Ink black on aged cream paper with subtle fibre and foxing, one small crimson accent. Flat, centred, symmetrical, high contrast, clean margins. Only the letters T, T and O — no other text, no tagline, no watermark.
+
+
+================================================================
+### ETAPE 4 - VOIX OFF (seed_audio) ###
+### Une seule voix pour les 6 prises. ###
+================================================================
+
+
+--- PRISE H1 - phrase choc ---
+--- descendre de 2 a 4 demi-tons AU MONTAGE, pas ici ---
+
+Toutes les pistes de cirque du monde font exactement treize mètres.
+
+
+--- PRISE H2 - phrase reponse - voix normale ---
+
+Et ce chiffre vient d'un sergent de cavalerie.
+
+
+--- PRISE A1 - acte 1 - viser ~41 s ---
+
+Philip Astley découvre qu'en galopant en cercle, debout sur le dos de son cheval, la force centrifuge l'aide à tenir en équilibre. En ligne droite, c'est impossible. Il lui faut donc une piste ronde. Il la fixe à treize mètres — la portée exacte de son fouet depuis le centre. Puis il comprend qu'un spectacle de chevaux ne remplit pas une soirée. Alors il engage des musiciens, des clowns, des acrobates. Des gens pour occuper le public pendant que les chevaux se reposent. Le cirque moderne vient de naître. Et l'acrobate y est un bouche-trou.
+
+
+--- PRISE A2 - acte 2 - viser ~30 s ---
+
+12 novembre 1859, Cirque Napoléon, Paris. Un Toulousain de vingt-et-un ans s'élance d'une plateforme, lâche sa barre, et attrape la suivante en plein vol. Personne n'a jamais fait ça. Napoléon III vient le voir. Pour son numéro, il a dessiné un vêtement moulant d'une seule pièce. Il l'appelle simplement « le maillot ». Il meurt onze ans plus tard. Et c'est après sa mort que les Anglais donnent son nom à ce vêtement. Il s'appelait Jules Léotard.
+
+
+--- PRISE A3 - acte 3 - viser ~16 s ---
+
+Un siècle plus tard, les animaux sont contestés, puis interdits. En 1984, une troupe québécoise monte un spectacle sans une seule bête. Rien que des corps humains. Le bouche-trou de 1768 est devenu le spectacle tout entier.
+
+
+--- PRISE A4 - chute - viser ~5 s ---
+
+Tout a changé. Sauf les treize mètres. Et toi, tu l'avais remarqué ?
+
+
+================================================================
+CONTROLES
+================================================================
+
+IMAGES  : trait grave visible, grain de papier, aucun texte
+          parasite dans l'image.
+
+MASCOTTE: aucun visage, meme esquisse. Le compas doit se lire
+          comme un compas. Test final : reduire a 100 pixels,
+          la silhouette doit rester reconnaissable.
+
+LOGO    : exactement T-T-O. Ni TT0, ni TIO, ni 4e lettre.
+          C'est le seul defaut qui disqualifie un logo.
+
+VOIX    : la meme voix pour les 6 prises. Si une prise est trop
+          longue, ajuster speech_rate, ne pas couper le texte.
+
+NE PAS ENREGISTRER : les deux premieres lignes de l'ancien
+script ("N'importe quelle piste de cirque..." et "Le chiffre n'a
+pas bouge depuis 1768...") sont remplacees par H1 et H2.
+
+================================================================
